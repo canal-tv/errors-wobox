@@ -1,0 +1,1 @@
+X=MsgBox("loading",0+16,"Duolingo.exe")
